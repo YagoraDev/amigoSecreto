@@ -37,7 +37,7 @@ O projeto foi desenvolvido para testar e praticar conceitos como:
 ## Como acessar
 
 ### 🔗 Online
-[Insira aqui o link do seu projeto hospedado]
+https://yagoradev.github.io/amigoSecreto/
 
 ### 💻 Localmente
 1. Clone o repositório:
