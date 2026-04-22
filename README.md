@@ -1,31 +1,47 @@
-# amigoSecreto
+# Amigo Secreto
 
-🎁 Amigo Secreto
+O Amigo Secreto é um projeto front-end desenvolvido com o objetivo de praticar e consolidar conceitos fundamentais de lógica de programação, com foco em manipulação de arrays, eventos e interatividade com o usuário.
 
-Projeto simples para adicionar nomes e sortear um amigo secreto.
+A aplicação consiste em uma ferramenta simples onde o usuário pode adicionar nomes a uma lista e sortear aleatoriamente um amigo secreto. O projeto foi construído utilizando HTML, CSS e JavaScript puro, sem dependências externas.
 
-🚀 Funcionalidades
+## Tecnologias
+- HTML5  
+- CSS3  
+- JavaScript (puro)
 
-Adicionar nomes à lista.
+## Funcionalidades
+- Adicionar nomes à lista através de um campo de texto
+- Exibição dinâmica dos nomes adicionados na tela
+- Sorteio aleatório de um nome da lista utilizando `Math.random()`
+- Exibição do nome sorteado na tela
+- Layout responsivo adaptado para desktop e dispositivos móveis
 
-Exibir os nomes na tela.
+## Lógica de Programação
 
-Sortear um amigo aleatoriamente.
+O projeto foi desenvolvido para testar e praticar conceitos como:
+- Manipulação de arrays (adicionar e acessar elementos)
+- Estruturas condicionais (`if/else`)
+- Manipulação de eventos (cliques)
+- Atualização dinâmica do DOM
+- Geração de números aleatórios com `Math.random()`
 
-Exibir o nome sorteado.
+## Como usar
 
-🛠 Como funciona
+1. Abra o arquivo `index.html` em seu navegador
+2. Digite um nome no campo de texto
+3. Clique no botão "Adicionar" para incluir o nome na lista
+4. Repita o processo para adicionar quantos nomes desejar
+5. Clique no botão "Sortear amigo" para escolher um nome aleatoriamente
+6. O nome sorteado será exibido na tela
 
-O JavaScript manipula a página para adicionar e exibir os nomes.
+## Como acessar
 
-Os nomes são armazenados em um array.
+### 🔗 Online
+[Insira aqui o link do seu projeto hospedado]
 
-O sorteio usa Math.random() para escolher um nome aleatório.
-
-📌 Como usar
-
-Abrir index.html no navegador.
-
-Digitar um nome e clicar em Adicionar.
-
-Clicar em Sortear amigo para escolher um nome aleatório.
+### 💻 Localmente
+1. Clone o repositório:
+```bash
+git clone https://github.com/YagoraDev/amigoSecreto.git
+```
+2. Abra o arquivo index.html em seu navegador
